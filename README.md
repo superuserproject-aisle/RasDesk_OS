@@ -6,7 +6,7 @@ I also changed some settings on the interface like adding a new skin and wallpap
 
 I hope you enjoy this operating system!
 
-Download with this link: (I am currently uploading the file, it will be here shortly)
+Download with this link: https://drive.google.com/file/d/1bNtoUZWVmnfh-D0GEAHHNs15HB3gYtRj/view?usp=sharing
 
 Fortnon Kiwi
 
