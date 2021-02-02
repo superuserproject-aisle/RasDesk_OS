@@ -5,6 +5,7 @@ This operating system is based on Raspberry Pi OS and has things preinstalled fo
 I also changed some settings on the interface like adding a new skin and wallpaper.
 
 I hope you enjoy this operating system
+
 Download with this link: (I am currently uploading the file, it will be here shortly)
 
 Fortnon Kiwi
