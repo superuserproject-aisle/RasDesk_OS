@@ -6,7 +6,7 @@ I also changed some settings on the interface like adding a new skin and wallpap
 
 I hope you enjoy this operating system!
 
-Download with this link: https://is.gd/BsuQdj
+Download with this link: https://is.gd/lohewo
 
 Watch my tour video of this OS: https://www.youtube.com/watch?v=B8tqCExldUM
 
