@@ -1,5 +1,5 @@
 # RasDesk OS
-******************** NOTICE. THIS OPERATING SYSTEM IS OUTDATED. YOU MAY CONTINUE USING IT, BUT BE SURE TO UPDATE FIRST. ********************
+NOTICE. THIS OPERATING SYSTEM IS OUTDATED. YOU MAY CONTINUE USING IT, BUT BE SURE TO UPDATE FIRST.
 
 The ideal operating system for using your Raspberry Pi as a desktop computer
 
